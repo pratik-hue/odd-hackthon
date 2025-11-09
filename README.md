@@ -1,5 +1,6 @@
 # WorkZen HRMS - Professional HR Management System
-
+#video link 
+https://drive.google.com/drive/folders/1SUpbWgVi9J3OJ_5sKbldU-q2T9Cu6BNv?usp=sharing
 A complete, professional-grade HRMS built with Next.js 14, TypeScript, MySQL, and Tailwind CSS for the hackathon.
 
 ## 🚀 Features
